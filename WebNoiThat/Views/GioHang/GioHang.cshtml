@@ -1,0 +1,56 @@
+﻿@model IEnumerable<WebNoiThat.Models.Giohang>
+
+@{
+    ViewBag.Title = "GioHang";
+    Layout = "~/Views/Shared/_layout4.cshtml";
+}
+
+<h2>GIỎ HÀNG</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tennoithat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.giaban)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.iSoluong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dThanhtien)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.tennoithat)</td>
+            <td><img src="@item.hinh" width="180" /></td>
+            @using (Html.BeginForm("CapnhatGiohang", "GioHang", new { @id = item.manoithat }))
+            {
+                <td>@String.Format("{0:0,0}", item.giaban) VNĐ</td>
+                <td> <input type="number" min="1" name="txtSolg" value="@item.iSoluong" /></td>
+                <td>@Html.DisplayFor(modelItem => item.dThanhtien)</td>
+                <td><a href="@Url.Action("Detail","NoiThat",new {id=item.manoithat})">Chi tiết</a>|@Html.ActionLink("Xóa", "XoaGiohang", new { @id = item.manoithat })</td>
+                <td><input type="submit" value="Cập nhật" class="btn-btn-success" /></td>
+            }
+        </tr>
+    }
+    <tr style="font-weight:bold; text-align:left;color:red">
+        <td colspan="2">Số loại nội thất: @ViewBag.Tongsoluongsanpham</td>
+        <td colspan="2">Số lượng nội thất: @ViewBag.Tongsoluong</td>
+        <td colspan="4">Tổng tiền: @String.Format("{0:0,0}", ViewBag.Tongtien) VNĐ</td>
+    </tr>
+    <tr style="font-weight:bold;color:yellow;text-align:right">
+        <td colspan="5">
+            @Html.ActionLink("Đặt hàng", "Dathang", "GioHang")
+        </td>
+    </tr>
+</table>

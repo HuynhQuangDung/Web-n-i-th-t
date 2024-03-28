@@ -1,0 +1,72 @@
+﻿@model IEnumerable<WebNoiThat.Models.NoiThat>
+
+@{
+    ViewBag.Title = "Phanloai3";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Phòng bếp</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Mã loại
+        </th>
+        <th>
+            Tên nội thất
+        </th>
+        <th>
+            Hình
+        </th>
+        <th>
+            Giá bán
+        </th>
+        <th>
+            Ngày cập nhật
+        </th>
+        <th>
+            Số lượng
+        </th>
+        <th>
+            Chi tiết
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.maloai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tennoithat)
+        </td>
+        <td>
+            <p><img src="@item.hinh" alt="hinh thumnail" width="200px" height="250px"></p>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.giaban)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ngaycapnhat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.soluongton)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.chitiet)
+        </td>
+        <td>
+            <div class="pull-right">
+                @Html.ActionLink("Chi tiết", "Detail", new
+                {
+                    id =
+                item.manoithat
+                }, new { @class = "btn btn-default" })
+                <a class="btn btn-success" href="@Url.Action("ThemGioHang", "GioHang",
+new { @id = item.manoithat, @strURL = Request.Url.ToString() })">Đặt mua</a>
+        </td>
+    </tr>
+}
+
+</table>

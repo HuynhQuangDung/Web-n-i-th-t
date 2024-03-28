@@ -1,0 +1,82 @@
+﻿@model WebNoiThat.Models.NoiThat
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>XÓA</h2>
+
+<h3>Bạn có chắc chắn muốn xóa?</h3>
+<div>
+    <h4>Nội thất</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã loại:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maloai)
+        </dd>
+
+        <dt>
+            Tên nội thất:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tennoithat)
+        </dd>
+
+        <dt>
+            Hình:
+        </dt>
+
+        <dd>
+            <img src="@Model.hinh" width="200px" height="250px"
+        </dd>
+
+        <dt>
+            Giá bán:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.giaban)
+        </dd>
+
+        <dt>
+            Ngày cập nhật
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaycapnhat)
+        </dd>
+
+        <dt>
+            Số lượng:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.soluongton)
+        </dd>
+
+        <dt>
+            Chi tiết:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.chitiet)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Quay về", "ListNoiThat")
+        </div>
+    }
+</div>

@@ -1,0 +1,77 @@
+﻿@model WebNoiThat.Models.NoiThat
+
+@{
+    ViewBag.Title = "Detail2";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detail2</h2>
+
+<div>
+    <h4>NoiThat</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.maloai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maloai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tennoithat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tennoithat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.giaban)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.giaban)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ngaycapnhat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaycapnhat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.soluongton)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.soluongton)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.chitiet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.chitiet)
+        </dd>
+        <div class="DatMua">
+            <a class="btn btn-success" href="@Url.Action("ThemGioHang", "GioHang",
+new { @id = Model.manoithat, @strURL = Request.Url.ToString() })">Đặt mua</a>
+        </div>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.manoithat }) |
+</p>

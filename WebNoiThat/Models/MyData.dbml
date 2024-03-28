@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="NoiThatNew" Class="MyDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=NoiThatNew;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="NoiThatNewConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ChiTietDonHang" Member="ChiTietDonHangs">
+    <Type Name="ChiTietDonHang">
+      <Column Name="madon" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="manoithat" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="soluong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="gia" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Association Name="DonHang_ChiTietDonHang" Member="DonHang" ThisKey="madon" OtherKey="madon" Type="DonHang" IsForeignKey="true" />
+      <Association Name="NoiThat_ChiTietDonHang" Member="NoiThat" ThisKey="manoithat" OtherKey="manoithat" Type="NoiThat" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DonHang" Member="DonHangs">
+    <Type Name="DonHang">
+      <Column Name="madon" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="thanhtoan" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="giaohang" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="ngaydat" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ngaygiao" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="manguoidung" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="DonHang_ChiTietDonHang" Member="ChiTietDonHangs" ThisKey="madon" OtherKey="madon" Type="ChiTietDonHang" />
+      <Association Name="NguoiDung_DonHang" Member="NguoiDung" ThisKey="manguoidung" OtherKey="manguoidung" Type="NguoiDung" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NguoiDung" Member="NguoiDungs">
+    <Type Name="NguoiDung">
+      <Column Name="manguoidung" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="hoten" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="tendangnhap" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="matkhau" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="dienthoai" Type="System.String" DbType="VarChar(15)" CanBeNull="true" />
+      <Column Name="diachi" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="marole" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="NguoiDung_DonHang" Member="DonHangs" ThisKey="manguoidung" OtherKey="manguoidung" Type="DonHang" />
+      <Association Name="Role_NguoiDung" Member="Role" ThisKey="marole" OtherKey="marole" Type="Role" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NoiThat" Member="NoiThats">
+    <Type Name="NoiThat">
+      <Column Name="manoithat" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="maloai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="tennoithat" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="hinh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="giaban" Type="System.Decimal" DbType="Decimal(18,0)" CanBeNull="true" />
+      <Column Name="ngaycapnhat" Type="System.DateTime" DbType="SmallDateTime" CanBeNull="true" />
+      <Column Name="soluongton" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="chitiet" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Association Name="NoiThat_ChiTietDonHang" Member="ChiTietDonHangs" ThisKey="manoithat" OtherKey="manoithat" Type="ChiTietDonHang" />
+      <Association Name="TheLoai_NoiThat" Member="TheLoai" ThisKey="maloai" OtherKey="maloai" Type="TheLoai" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Role" Member="Roles">
+    <Type Name="Role">
+      <Column Name="marole" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="tenrole" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="Role_NguoiDung" Member="NguoiDungs" ThisKey="marole" OtherKey="marole" Type="NguoiDung" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TheLoai" Member="TheLoais">
+    <Type Name="TheLoai">
+      <Column Name="maloai" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="tenloai" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Association Name="TheLoai_NoiThat" Member="NoiThats" ThisKey="maloai" OtherKey="maloai" Type="NoiThat" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewBag.Title = "Detail1";
+    Layout = "~/Views/Shared/_layout3.cshtml";
+}
+
+<h2>Detail1</h2>
+@model WebNoiThat.Models.NoiThat
+
+
+
+<h2>CHI TIẾT</h2>
+
+<div>
+    <h4>Nội thất</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã loại:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maloai)
+        </dd>
+
+        <dt>
+            Tên nội thất:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tennoithat)
+        </dd>
+
+        <dt>
+            Hình:
+        </dt>
+
+        <dd>
+            <img src="@Model.hinh" width="200px" height="250px" />
+        </dd>
+
+        <dt>
+            Giá bán:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.giaban)
+        </dd>
+
+        <dt>
+            Ngày cập nhật:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaycapnhat)
+        </dd>
+
+        <dt>
+            Số lượng:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.soluongton)
+        </dd>
+
+        <dt>
+            Chi tiết:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.chitiet)
+        </dd>
+        <div class="DatMua">
+            <a class="btn btn-success" href="@Url.Action("ThemGioHang", "GioHang",
+new { @id = Model.manoithat, @strURL = Request.Url.ToString() })">Đặt mua</a>
+        </div>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Quay về", "ListAfterLogin2", "User")
+</p>

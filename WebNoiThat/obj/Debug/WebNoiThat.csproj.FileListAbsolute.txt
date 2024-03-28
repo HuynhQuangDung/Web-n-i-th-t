@@ -1,0 +1,415 @@
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.pdb
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.rsp
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.rsp
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.AppContext.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Console.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Http.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.ValueTuple.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.rsp
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebGrease.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.pdb
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.AssemblyReference.cache
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CopyComplete
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.pdb
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.AssemblyReference.cache
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CoreCompileInputs.cache
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.pdb
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll.config
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.pdb
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe.config
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.rsp
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe.config
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.rsp
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.AppContext.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Collections.Immutable.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Console.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Globalization.Calendars.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Http.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Sockets.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Reflection.Metadata.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.ValueTuple.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe.config
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.rsp
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe.config
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.Web.Infrastructure.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebGrease.dll
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.pdb
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CopyComplete
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll.config
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.pdb
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe.config
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.rsp
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe.config
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.rsp
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.AppContext.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Console.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Http.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.ValueTuple.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe.config
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.rsp
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebGrease.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.pdb
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.AssemblyReference.cache
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CopyComplete
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.dll
+C:\Users\TheOneVN\Desktop\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.pdb
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll.config
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.pdb
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe.config
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.rsp
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe.config
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.rsp
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.AppContext.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Console.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Http.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.ValueTuple.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe.config
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.rsp
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebGrease.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.pdb
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.AssemblyReference.cache
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CopyComplete
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.dll
+C:\Users\Amazonstore.vn\Desktop\Final\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.pdb
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebNoiThat.pdb
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.exe.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csc.rsp
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.exe.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\csi.rsp
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.AppContext.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Console.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Http.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.ValueTuple.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.exe.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\vbc.rsp
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\WebGrease.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\PagedList.Mvc.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Helpers.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Mvc.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Optimization.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.Razor.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\System.Web.WebPages.Razor.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Newtonsoft.Json.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Antlr3.Runtime.pdb
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.AssemblyReference.cache
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CoreCompileInputs.cache
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.csproj.CopyComplete
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.dll
+C:\Users\TheOneVN\Desktop\DoAnCoSo\New folder\DoAnCoSo\WebNoiThat\WebNoiThat\obj\Debug\WebNoiThat.pdb

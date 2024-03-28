@@ -1,0 +1,59 @@
+﻿@model IEnumerable<WebNoiThat.Models.Giohang>
+
+@{
+    ViewBag.Title = "dathang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="margin-top:80px">Đặt hàng</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tennoithat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.giaban)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.iSoluong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dThanhtien)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tennoithat)
+            </td>
+            <td>
+                <p><img src="@item.hinh" alt="hinh thumnail" style="width:100px"></p>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.giaban)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.iSoluong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dThanhtien)
+            </td>
+
+        </tr>
+    }
+
+    <tr style="font-weight:bold;text-align:right;color:blue">
+        <td colspan="4">Tổng tiền: @String.Format("{0:0,0}", @ViewBag.Tongtien) VND</td>
+        <td colspan="5">@Html.ActionLink("Xac Nhan", "XacNhanDonHang", "GioHang")</td>
+    </tr>
+</table>
+
+
+
+

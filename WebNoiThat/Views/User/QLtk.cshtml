@@ -1,0 +1,55 @@
+﻿@model IEnumerable<WebNoiThat.Models.NguoiDung>
+
+@{
+    ViewBag.Title = "QLtk";
+    Layout = "~/Views/Shared/_layout2.cshtml";
+}
+
+<h2>Quản lý tài khoản</h2>
+<table class="table">
+    <tr>
+        <th>
+            Họ tên
+        </th>
+        <th>
+            Tên đăng nhập
+        </th>
+        <th>
+            Mật khẩu
+        </th>
+        <th>
+            Điện thoại
+        </th>
+        <th>
+            Địa chỉ
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.hoten)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tendangnhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.matkhau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.dienthoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.diachi)
+            </td>
+            <td>
+                @Html.ActionLink("Chỉnh sửa", "Edit", new { id = item.manguoidung }) |
+                @Html.ActionLink("Xóa", "Delete", new { id = item.manguoidung })
+            </td>
+        </tr>
+    }
+
+</table>
+
